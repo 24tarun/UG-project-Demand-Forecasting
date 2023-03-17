@@ -1,0 +1,1 @@
+This project focuses on improving the accuracy of the demand came for a particular product at the retail store so that the retailer will know how much amount of product has to be stored in the inventory in advance meanwhile they can also reduce the amount spent on maintenance of the inventory. 
